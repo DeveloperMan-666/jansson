@@ -1,4 +1,4 @@
-Jansson Documentation
+Fuck you !
 =====================
 
 This is the documentation for Jansson_ |release|, last updated |today|.
